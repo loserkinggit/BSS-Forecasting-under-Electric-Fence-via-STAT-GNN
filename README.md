@@ -1,6 +1,9 @@
 # BSS-Forecasting-under-Electric-Fence-via-STAT-GNN
-preprocessed time-segmented dataset of original travel demands
+Preprocessed time-segmented dataset of original travel demands.
+
 This dataset of bike-sharing trips is provided by Meituan Bike-Sharing in Wuhan.
+
+This dataset is authorized by Meituan Bike-Sharing and is strictly limited to non-profit academic research. Any organization or individual shall not use this data for commercial activities, profit-seeking projects, or any other unauthorized purposes.
 
 The dataset covers the following four major areas:
 
@@ -13,4 +16,5 @@ The dataset covers the following four major areas:
 (4) The Nanli Road Academic District (educational), from June 17 to 30, 2024 (two weeks), ID04XXX
 
 The trip records are divided into borrowing and returning events, aggregated at 15‑minute intervals.
+
 The data are presented in raw, unprocessed form and have not undergone any correction.
